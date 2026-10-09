@@ -1,18 +1,16 @@
 # Mohammed Daniel Khan
 
-Computer Science & Mathematics student at Rutgers University–New Brunswick, interested in data science, machine learning, data engineering, and backend systems.
+Computer Science and Mathematics student at Rutgers University–New Brunswick, focused on Python, SQL, data analytics, and backend systems. Seeking Summer 2027 opportunities in data science, data analytics, and software engineering.
 
-I'm building practical projects that connect operational data to software I can inspect and explain.
+## Selected projects
 
-| Project | Focus |
-| --- | --- |
-| [RestaurantOps AI](https://github.com/Daniek131/restaurantops-ai) | Recipe-based inventory, transactional sale processing, SQL cost reports, and baseline demand analytics |
-| [T-Sensor](https://github.com/Daniek131/t-sensor) | ESP32/Modbus soil telemetry, C++ frame parsing, and Python time-series ingestion |
+| Project | Technical focus | Architecture |
+| --- | --- | --- |
+| [RestaurantOps AI](https://github.com/Daniek131/restaurantops-ai) | Transactional inventory, recipe mapping, SQL cost analytics, demand forecasting, and controlled LLM tools | [View diagram](https://github.com/Daniek131/restaurantops-ai#architecture-diagram) |
+| [T-Sensor](https://github.com/Daniek131/t-sensor) | ESP32/Modbus telemetry, C++ binary parsing, Python ingestion, indexed time-series storage, and hardware design exports | [View diagram](https://github.com/Daniek131/t-sensor#architecture-diagram) |
 
-**Main tools:** Python, SQL, PostgreSQL, FastAPI, Pandas, NumPy, C++, Arduino/PlatformIO, Git, and Docker.
+**Technical skills:** Python, SQL, PostgreSQL, FastAPI, SQLAlchemy, Pandas, NumPy, C++, Arduino/PlatformIO, Celery, Redis, Docker, and Git.
 
-The project READMEs include reproducible demos, tests, implementation status, and current limitations. Restaurant scenarios are synthetic; T-Sensor's hardware validation and new software verification are documented separately.
-
-Seeking Summer 2027 internship opportunities in data, applied AI, and software engineering.
+Project repositories include source code, architecture diagrams, setup instructions, behavior tests, and development milestones.
 
 [LinkedIn](https://www.linkedin.com/in/mohammed-khan-b90480363/)
